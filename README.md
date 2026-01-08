@@ -11,7 +11,7 @@
 ## 🧠 À propos
 
 Je m’appelle **Riad**.  
-Titulaire d’une **licence en droit du travail**, j’ai acquis une expérience variée dans différents secteurs :  
+Issu d’un parcours universitaire en droit, j’ai acquis une expérience variée dans différents secteurs :  
 **logistique**, **services financiers** et **restauration**.
 
 Dans une démarche de reconversion et d’évolution professionnelle, j’ai effectué un **stage en développement web**, suivi une **formation de concepteur développeur d’applications**.  
