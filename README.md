@@ -14,7 +14,7 @@ Je m’appelle **Riad**.
 Issu d’un parcours universitaire en droit, j’ai acquis une expérience variée dans différents secteurs :  
 **logistique**, **services financiers** et **restauration**.
 
-Dans une démarche de reconversion et d’évolution professionnelle, j’ai effectué un **stage en développement web**, suivi une **formation de concepteur développeur d’applications**.  
+Dans une démarche de reconversion et d’évolution professionnelle, j’ai effectué un **stage en développement web** chez La Boite Immo, suivi une **formation de concepteur développeur d’applications**.  
 Je suis actuellement en **formation Développeur IA chez Simplon/ISEN**, avec une orientation forte vers le **backend**, l’**automatisation** et l’**intelligence artificielle**.
 
 ---
